@@ -1,0 +1,13 @@
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.exe
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.deps.json
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.runtimeconfig.json
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.runtimeconfig.dev.json
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.dll
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\bin\Debug\netcoreapp3.1\C_Sharp_curso.pdb
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.csprojAssemblyReference.cache
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.AssemblyInfoInputs.cache
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.AssemblyInfo.cs
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.csproj.CoreCompileInputs.cache
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.dll
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.pdb
+C:\Users\basiv\OneDrive\Documents\C_Sharp\C_Sharp_curso\C_Sharp_curso\obj\Debug\netcoreapp3.1\C_Sharp_curso.genruntimeconfig.cache
