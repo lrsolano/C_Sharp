@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NijeMG2eszF56CvATnQgC+l2SFB5vkLWOJDQQ1QvFdPp+JGX6EjuqT2ny6ngwWXp0sHqdubmm0RMOTwjEJQEWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basiv\\OneDrive\\Documents\\C_Sharp\\Curso_CSharp_Intermediario\\Curso_CSharp_Intermediario\\Curso_CSharp_Intermediario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basiv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

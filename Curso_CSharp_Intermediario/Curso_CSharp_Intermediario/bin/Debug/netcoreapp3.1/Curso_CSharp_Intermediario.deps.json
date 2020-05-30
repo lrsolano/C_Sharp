@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Curso_CSharp_Intermediario/1.0.0": {
+        "runtime": {
+          "Curso_CSharp_Intermediario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso_CSharp_Intermediario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
